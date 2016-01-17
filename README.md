@@ -1,13 +1,12 @@
-# ObjectUtils
-
-ObjectUtils is useful util for android app. 
-
-when you want check object`(String, List, Map)`is empty or not, you can use this util
+Util class list
+* ObjectUtils
+* JsonUtils
 
 
-##How to use
+## ObjectUtils
 
-Use it as Util anywhere. Use it like this:
+If you want check object`(String, List, Map)`is empty or not, you can use this util
+
 
 ```java
 if(ObjectUtils.isEmpty(aa)){
